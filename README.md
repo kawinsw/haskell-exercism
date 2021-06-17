@@ -1,2 +1,2 @@
-# haskell-exercism
-Exercises for the Haskell programming language on Exercism (exercism.io)
+# Haskell practice
+Attempt at learning some functional programming using Haskell. Problems from [Exercism](https://exercism.io). 
